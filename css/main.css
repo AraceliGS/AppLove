@@ -70,4 +70,28 @@ a:hover {
 }
 
 /*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
+* {
+  font-family: 'Raleway', sans-serif;
+}
 
+header {
+  background: #fff;
+  outline: 1px solid blue;
+  height: 100px;
+}
+
+header div a {
+  font-weight: 900;
+  outline: 1px solid orange;
+  margin: 30px;
+  position: relative;
+  top: 35px;
+  left: 130px;
+}
+
+section div a {
+  background-color: #33FF8D;
+  color: #fff;
+  padding: 13px;
+  text-align: center;
+}
