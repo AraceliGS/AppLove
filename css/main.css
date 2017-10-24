@@ -81,7 +81,7 @@ header {
 }
 
 header div a {
-  font-weight: 900;
+  font-weight: bold;
   outline: 1px solid orange;
   margin: 30px;
   position: relative;
@@ -89,7 +89,29 @@ header div a {
   left: 130px;
 }
 
-section div a {
+.first_section div{
+  position: relative;
+}
+
+.first_section img {
+  display: block;
+  width: 100%;
+}
+
+.first_section h2 {
+  position: absolute;
+  bottom: 490px;
+  right: 490px;
+}
+
+.first_section h1 {
+  position: absolute;
+  bottom: 340px;
+  right: 300px;
+  font-size: 48px;
+}
+
+.first_section div a {
   background-color: #33FF8D;
   color: #fff;
   padding: 13px;
