@@ -23,7 +23,7 @@ Este reto será evaluado sobre lo siguiente:
 * Archivo `README.md` actualizado y correctamente redactado
 * Uso de comentarios para hacer tu código más legible
 
-## Detalles a tener en cuenta**
+## **Detalles a tener en cuenta**
 
 * El `header` tiene que estar **estático**, como se muestra en la siguiente _imagen gif_:
 
